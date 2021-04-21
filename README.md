@@ -1,4 +1,5 @@
 # kodluyoruzilkrepo
 * Baslik
 '''
-# Kod
+# Kod Blog
+
